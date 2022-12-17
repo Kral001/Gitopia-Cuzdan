@@ -1,5 +1,9 @@
 <h1 align="center"> Gitopia Cüzdanı Nasıl Oluşturulur? </h1>
 
+
+![Fi0V8cBVUAETXeh](https://user-images.githubusercontent.com/98269269/208245752-ad43122d-8216-4ebc-991b-87e867ead73c.jpg)
+
+
 ## Daha Önce Gitopia Cüzdanı Olmayanlar Sıfırdan Nasıl Cüzdan Oluşturabilirler?
 
 - Eğer bir Gitopia cüzdanına sahip değilseniz gelin birlikte bir Gitopia cüzdanı oluşturalım.
